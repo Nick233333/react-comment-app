@@ -7,7 +7,7 @@
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.1"
   },
-  "homepage": "https://github.com/nick233333/react-comment-app/build",
+  "homepage": "https://nick233333.github.io/react-comment-app/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
