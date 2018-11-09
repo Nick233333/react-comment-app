@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-comment-app/build/static/css/main.ca85d32d.chunk.css",
-  "main.js": "/react-comment-app/build/static/js/main.aa830285.chunk.js",
-  "main.js.map": "/react-comment-app/build/static/js/main.aa830285.chunk.js.map",
-  "static/js/1.a0646418.chunk.js": "/react-comment-app/build/static/js/1.a0646418.chunk.js",
-  "static/js/1.a0646418.chunk.js.map": "/react-comment-app/build/static/js/1.a0646418.chunk.js.map",
+  "main.css": "/react-comment-app/build/static/css/main.de13d825.chunk.css",
+  "main.js": "/react-comment-app/build/static/js/main.6c8f1988.chunk.js",
+  "main.js.map": "/react-comment-app/build/static/js/main.6c8f1988.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/react-comment-app/build/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/react-comment-app/build/static/js/1.6eb6405c.chunk.js.map",
   "runtime~main.js": "/react-comment-app/build/static/js/runtime~main.dfd6a694.js",
   "runtime~main.js.map": "/react-comment-app/build/static/js/runtime~main.dfd6a694.js.map",
-  "static/css/main.ca85d32d.chunk.css.map": "/react-comment-app/build/static/css/main.ca85d32d.chunk.css.map",
+  "static/css/main.de13d825.chunk.css.map": "/react-comment-app/build/static/css/main.de13d825.chunk.css.map",
   "index.html": "/react-comment-app/build/index.html",
-  "precache-manifest.3c8a526f4cd31782fc65b10aa4a18e43.js": "/react-comment-app/build/precache-manifest.3c8a526f4cd31782fc65b10aa4a18e43.js",
+  "precache-manifest.3abef159b206e78c179a1c37e57560ef.js": "/react-comment-app/build/precache-manifest.3abef159b206e78c179a1c37e57560ef.js",
   "service-worker.js": "/react-comment-app/build/service-worker.js"
 }
